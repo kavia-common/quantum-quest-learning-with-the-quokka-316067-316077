@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/quantum-quest-learning-with-the-quokka-316067-316077/quantum_quokka_frontend
+flutter analyze
+
